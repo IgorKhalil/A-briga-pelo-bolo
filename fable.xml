@@ -83,7 +83,8 @@
         <agent text="Ebaa dá um pouco pro gato também hahaha" x="370" y="260" width="150" height="100"  />
     </page>
     <page background="BackgroundRoom.jpeg">
-        
+        <agent img="recordatorioamarelo-removebg-preview.png" x="300" y="310" width="300" height="300" />
+        <agent text="Fim" x="10" y="390" width="300" height="300"  />
         
     </page>
         
