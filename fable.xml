@@ -1,7 +1,7 @@
 <fable>
-  <page background="bg.png">
+  <page background="BackgroundRoom.jpeg">
 
-    <agent img="box.png" x="300" y="350" width="50" height="50" />
+    <agent img="download.jpeg" x="300" y="350" width="50" height="50" />
     <agent img="box.png" x="260" y="300" width="50" height="50" />
     <agent img="box.png" x="245" y="350" width="50" height="50" />
 
