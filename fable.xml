@@ -5,7 +5,7 @@
     <agent img="bolo.jpeg" x="200" y="170" width="50" height="50" />
     <agent img="personagem2.jpeg" x="320" y="0" width="200" height="290" />
     <agent img="gato.jpeg" x="240" y="170" width="70" height="70" />
-    <agent img="seta.jpeg" x="400" y="450" width="50" height="50" />
+    <agent img="seta.jpeg" x="400" y="450" width="50" height="50" on-touch="_NEXT_PAGE"/>
       
     
     <agent img="balaoquadrado.jpeg" x="80" y="270" width="150" height="90" />
@@ -14,4 +14,6 @@
     <agent img="block.png" x="400" y="400" width="100" height="100" />
 
   </page>
+    <page>
+        
 </fable>
