@@ -84,7 +84,7 @@
     </page>
     <page background="BackgroundRoom.jpeg">
         <agent img="recordatorioamarelo-removebg-preview.png" x="100" y="200" width="300" height="300" />
-        <agent text="Fim" x="100" y="200" width="300" height="300"  />
+        <agent text="FIM" x="200" y="100" width="300" height="300" font-size ="100" />
         
     </page>
         
