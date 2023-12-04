@@ -7,7 +7,7 @@
     <agent img="gato.jpeg" x="240" y="170" width="70" height="70" />
     <agent img="seta.jpeg" x="400" y="450" width="50" height="50" />
       
-    <agent text="Então teremos que lutar" color="" x="100" y="250" width="100" height="100"  />
+    <agent text="Então teremos que lutar" x="100" y="250" width="100" height="100"  />
     
     
     <agent img="block.png" x="300" y="400" width="100" height="100" />
