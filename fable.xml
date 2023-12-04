@@ -2,8 +2,9 @@
     <page background="BackgroundRoom.jpeg">
         <agent img="personagem1.jpeg" x="0" y="0" width="200" height="300" />
         <agent img="bolo.jpeg" x="200" y="170" width="50" height="50" />
-        <agent img="balaoquadrado.jpeg" x="80" y="270" width="150" height="90" />
-        <agent text="Finalmente poderei comer meu bolo delicioso" x="100" y="250" width="100" height="100"  />
+        <agent img="balaoquadrado.jpeg" x="80" y="270" width="150" height="100" />
+        <agent text="Finalmente poderei comer meu bolo delicioso" x="100" y="268" width="100" height="100"  />
+        <agent img="seta.jpeg" x="400" y="450" width="50" height="50" on-touch="_NEXT_PAGE"/>
         
     </page>
       <page background="BackgroundRoom.jpeg">
