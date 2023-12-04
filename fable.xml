@@ -82,6 +82,7 @@
     <page background="BackgroundRoom.jpeg">
         <agent img="recordatorioamarelo-removebg-preview.png" x="100" y="200" width="300" height="200" />
         <agent text="FIM" x="220" y="120" width="300" height="200" font-size ="80"/>
+        <agent img="seta.jpeg" x="400" y="450" width="50" height="50" on-touch="_GOTO_PAGE:1"/>
         
     </page>
         
