@@ -2,8 +2,8 @@
   <page background="BackgroundRoom.jpeg">
 
     <agent img="personagem1.jpeg" x="0" y="0" width="200" height="300" />
-    <agent img="Elementos De Comida Mão Desenhada Bolo Bonito Dos Desenhos Animados PNG , Elemento Alimento, Comida De Desenhos Animados, Sobremesa Imagem PNG e Vetor Para Download Gratuito.jpeg" x="220" y="170" width="50" height="50" />
-    <agent img="Token Ordem Paranormal.jpeg" x="320" y="0" width="200" height="290" />
+    <agent img="" x="220" y="170" width="50" height="50" />
+    <agent img="personagem2.jpeg" x="320" y="0" width="200" height="290" />
 
     <agent text="Então teremos que lutar" x="100" y="250" width="100" height="100" backgroudcolor= "white" />
     <agent img="block.png" x="100" y="400" width="100" height="100" />
