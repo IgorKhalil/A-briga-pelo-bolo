@@ -1,5 +1,5 @@
 <fable>
-    <page background="BackgroundRoom.jpeg">
+    <page background="BackgroundRoom.jpeg" soundtrack="wind-outside-sound-ambient-141989.mp3">
         <agent img="personagem1.jpeg" x="0" y="0" width="200" height="300" />
         <agent img="bolo.jpeg" x="200" y="170" width="50" height="50" />
         <agent img="balaoquadrado.jpeg" x="80" y="270" width="150" height="100" />
