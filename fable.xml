@@ -1,5 +1,5 @@
 <fable>
-    <page background="BackgroundRoom.jpeg" soundtrack="">
+    <page background="BackgroundRoom.jpeg" soundtrack="forest-lullaby-110624.mp3">
         <agent img="personagem1.jpeg" x="0" y="0" width="200" height="300" />
         <agent img="bolo.jpeg" x="200" y="170" width="50" height="50" />
         <agent img="balaoquadrado.jpeg" x="80" y="270" width="150" height="100" />
@@ -8,7 +8,7 @@
         <agent img="gato.jpeg" x="240" y="170" width="70" height="70" />
         
     </page>
-    <page background="BackgroundRoom.jpeg" soundtrack="">
+    <page background="BackgroundRoom.jpeg" soundtrack="forest-lullaby-110624.mp3">
         <agent img="personagem1.jpeg" x="0" y="0" width="200" height="300" />
         <agent img="bolo.jpeg" x="200" y="170" width="50" height="50" />
         <agent img="personagem2.jpeg" x="320" y="0" width="200" height="290" />
@@ -80,7 +80,7 @@
         <agent img="bolo.jpeg" x="200" y="170" width="50" height="50" />
         <agent text="Ebaa dá um pouco pro gato também hahaha" x="360" y="260" width="150" height="100"  />
     </page>
-    <page background="BackgroundRoom.jpeg">
+    <page background="BackgroundRoom.jpeg" soundtrack="forest-lullaby-110624.mp3">
         <agent img="recordatorioamarelo-removebg-preview.png" x="100" y="200" width="300" height="200" />
         <agent text="FIM" x="220" y="120" width="300" height="200" font-size ="80"/>
         <agent img="seta.jpeg" x="400" y="450" width="50" height="50" on-touch="_GOTO_PAGE:1"/>
