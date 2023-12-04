@@ -2,12 +2,13 @@
   <page background="BackgroundRoom.jpeg">
 
     <agent img="personagem1.jpeg" x="0" y="0" width="200" height="300" />
-    <agent img="" x="220" y="170" width="50" height="50" />
+    <agent img="bolo.jpeg" x="200" y="170" width="50" height="50" />
     <agent img="personagem2.jpeg" x="320" y="0" width="200" height="290" />
+    <agent img="gato.jpeg" x="220" y="400" width="100" height="100" />
 
     <agent text="Então teremos que lutar" x="100" y="250" width="100" height="100" backgroudcolor= "white" />
-    <agent img="block.png" x="100" y="400" width="100" height="100" />
-    <agent img="block.png" x="200" y="400" width="100" height="100" />
+    
+    <agent img="seta.jpeg" x="200" y="400" width="100" height="100" />
     <agent img="block.png" x="300" y="400" width="100" height="100" />
     <agent img="block.png" x="400" y="400" width="100" height="100" />
 
