@@ -8,9 +8,8 @@
     <agent img="seta.jpeg" x="400" y="450" width="50" height="50" />
       
     <agent text="Então teremos que lutar" x="100" y="250" width="100" height="100"  />
-    
-    
-    <agent img="block.png" x="300" y="400" width="100" height="100" />
+    <agent img="balaodefala.jpeg" x="80" y="250" width="100" height="100" />
+      
     <agent img="block.png" x="400" y="400" width="100" height="100" />
 
   </page>
